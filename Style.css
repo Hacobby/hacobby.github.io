@@ -54,11 +54,28 @@ header{
 }
 .CustomTxt1{
     margin: 1%;
+    padding: 3%;
+    padding-right: 20px;
     font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
     font-style: italic;
+    width: 50%;
+    border-style: solid;
+    border-width: 1px;
+    border-left-style: none;
 }
 .CustomTxt2{
-    margin: 1%;
+    padding: 3%;
+    padding-bottom: 31px;
+    padding-top: 33px;
+    padding-left: 30px;
     font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
     font-style: italic;
+    width: 30%;
+    position: relative;
+    left:58%;
+    bottom: 158px;
+    border-style: solid;
+    border-width: 1px;
+    border-right-style: none;
+    border-left-style: none;
 }
