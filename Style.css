@@ -75,6 +75,19 @@ header{
     width: 30%;
     float: right;
 }
+.CustomTxt3{
+    float: right;
+    margin-left: 40%;
+    margin-right: 1%;
+    padding-top: 3%;
+    padding-bottom: 3%;
+    position: absolute;
+    border-top-style: solid;
+    border-bottom-style: solid;
+    border-width: 1px;
+    right: 5%;
+    left: 10%;
+}
 .CustomDiv{
     margin: 5%;
     max-height: 40%;
