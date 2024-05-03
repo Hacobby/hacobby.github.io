@@ -29,9 +29,8 @@ body{
 .enlace{
     text-decoration: none;
     color: white;
-    margin: 5%;
+    margin: 6%;
     font-size:x-large;
-    
 }
 header{
     background-color: #373737;
@@ -45,7 +44,7 @@ header{
     margin-top: 5%;
     margin: 1%;
     margin-top: 3%;
-    margin-bottom: 3%;
+    margin-bottom: 0%;
     max-width: 30%;
     height: max-content;
 }
@@ -63,25 +62,28 @@ header{
     border-style: solid;
     border-width: 1px;
     border-left-style: none;
+    border-top-style: none;
+    border-bottom-style: none;
 }
 .CustomTxt2{
-    padding: 3%;
-    padding-bottom: 31px;
-    padding-top: 33px;
+    padding: 0%;
+    padding-bottom: 5%;
+    padding-top: 10%;
     padding-left: 30px;
     font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
     font-style: italic;
     width: 30%;
     position: relative;
     left:58%;
-    bottom: 158px;
-    border-style: solid;
-    border-width: 1px;
-    border-right-style: none;
-    border-left-style: none;
+    bottom: 170px;
 }
 .CustomDiv{
-    max-height: 150px;
+    margin: 5%;
+    max-height: 163px;
+    border-style: solid;
+    border-right-style: none;
+    border-left-style: none;
+    border-width: 1px;
 }
 .icon{
     max-width: 7%;
